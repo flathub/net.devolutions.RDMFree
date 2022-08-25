@@ -29,9 +29,9 @@ modules:
       - desktop-file-edit --remove-key='Path' /app/share/applications/net.devolutions.RDMFree.desktop
     sources:
       - type: file
-        url: https://cdn.devolutions.net/download/Linux/RDM/2022.2.2.4/RemoteDesktopManager.Free_2022.2.2.4_amd64.deb
+        url: https://cdn.devolutions.net/download/Linux/RDM/2022.2.2.5/RemoteDesktopManager.Free_2022.2.2.5_amd64.deb
         dest-filename: RemoteDesktopManagerFree.deb
-        sha256: e67f040cb795bd689005a2d7743258d0ce21aea4010d34ed3d2f4e95dc1fbe94
+        sha256: 6c19be9aa387a1b4a616554a7e54f350d44b2838f48c2babce2d3e1b32c3f5e9
         only-arches:
           - x86_64
       - type: file
