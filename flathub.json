@@ -1,3 +1,5 @@
 {
-  "only-arches": ["x86_64"]
+  "only-arches": ["x86_64"],
+  "end-of-life": "The free version of RDM is no longer a different application. Please use the net.devolutions.RDM repo instead.",
+  "end-of-life-rebase": "net.devolutions.RDM"
 }
